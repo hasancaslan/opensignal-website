@@ -8,15 +8,13 @@ include_in_header: true
 
 **Address**
 
-Sepapaja tn 6
-
-Tallinn , 15551 
-
-Estonia
+MASLAK MAH. AOS 55. SK. 
+42 MASLAK B BLOK NO: 4 İÇ KAPI NO: 538 
+SARIYER, İSTANBUL, TURKEY
 
 <br>
 **Email**
 
-tekin@thepb.studio
+info@appcrunch.co
 
 

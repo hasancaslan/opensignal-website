@@ -10,7 +10,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : PB Studios
+app_name                                  : AppCrunch
 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : We build time saving mobile apps.
@@ -20,15 +20,15 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : PB Studios
+your_name                                 : AppCrunch
 your_link                                 :
 your_city                                 : Istanbul
-email_address                             : tekin@thepb.studio
+email_address                             : info@appcrunch.co
 facebook_username                         :
-instagram_username                        : http://instagram.com/photo.finderapp/
+instagram_username                        : 
 twitter_username                          :
 github_username                           :
-youtube_username                          : https://www.youtube.com/channel/UCsgzaZGNwzf31Wgxq-tP9vQ
+youtube_username                          : 
 
 
 
@@ -36,7 +36,7 @@ youtube_username                          : https://www.youtube.com/channel/UCsg
 features                                  :
 
   - title                                 : "What We Do"
-    description                           : "We build time saving mobile apps. We make users lifes easier, better and productive. Time is your most valuable asset. Use PB Studios. Save time!"
+    description                           : "We build time saving mobile apps. We make users lifes easier, better and productive. Time is your most valuable asset. Use AppCrunch. Save time!"
     fontawesome_icon_name                 : mobile
     
   - title                                 : "With A Single Goal In Mind"
